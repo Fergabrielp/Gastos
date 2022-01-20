@@ -6,6 +6,8 @@ Tambien la app te mostrara la fecha y la hora en la que registraste el evento.
 
 ## Imágenes
 
+![gastos](https://user-images.githubusercontent.com/88584244/150427415-d3e3dae0-26e9-4e68-a7da-92de61375147.png)
+
 ## Tecnologías
 
 • HTML  
