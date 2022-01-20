@@ -6,6 +6,14 @@ Tambien la app te mostrara la fecha y la hora en la que registraste el evento.
 
 ## Imágenes
 
+## Tecnologías
+
+• HTML  
+• CSS  
+• Javascript  
+• React JS  
+• React swipeable list
+
 ## Instalación
 
 1 - Clonar el repositorio  
